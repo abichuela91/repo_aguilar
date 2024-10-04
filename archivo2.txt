@@ -1,0 +1,4 @@
+root:x:0:0:root:/root:/bin/bash
+osboxes:x:1000:1000:osboxes.org:/home/osboxes:/bin/bash
+pepe:x:1001:1002:Alumno pepe:/home/pepe:/bin/bash
+juan:x:1002:1003:usuario juan:/home/juan:/bin/bash
